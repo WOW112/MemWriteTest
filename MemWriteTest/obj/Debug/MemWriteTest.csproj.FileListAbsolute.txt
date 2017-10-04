@@ -1,0 +1,6 @@
+c:\users\ano\documents\visual studio 2013\Projects\MemWriteTest\MemWriteTest\bin\Debug\MemWriteTest.exe.config
+c:\users\ano\documents\visual studio 2013\Projects\MemWriteTest\MemWriteTest\obj\Debug\MemWriteTest.csprojResolveAssemblyReference.cache
+c:\users\ano\documents\visual studio 2013\Projects\MemWriteTest\MemWriteTest\bin\Debug\MemWriteTest.exe
+c:\users\ano\documents\visual studio 2013\Projects\MemWriteTest\MemWriteTest\bin\Debug\MemWriteTest.pdb
+c:\users\ano\documents\visual studio 2013\Projects\MemWriteTest\MemWriteTest\obj\Debug\MemWriteTest.exe
+c:\users\ano\documents\visual studio 2013\Projects\MemWriteTest\MemWriteTest\obj\Debug\MemWriteTest.pdb
